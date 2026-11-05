@@ -1,0 +1,2 @@
+copia-seguridad
+script que hace una copia de seguridad de un directorio
