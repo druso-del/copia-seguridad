@@ -1,3 +1,5 @@
 copia-seguridad
 script que hace una copia de seguridad de un directorio
 Uso: ./copia.sh <carpeta>
+nombre de copias
+
